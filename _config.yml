@@ -30,8 +30,8 @@ description: > # this means to ignore newlines until "baseurl:"
   and UI designer. Check out my projects on GitHub
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://arulfrances.github.io/" # the base hostname & protocol for your site
-twitter_username: navvenshady
-github_username:  naveenshaji
+twitter_username: arulfrances
+github_username:  arulfrances
 css: "cyan"
 scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
